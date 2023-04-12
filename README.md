@@ -7,7 +7,7 @@
 <p align="left">❤️ Mais uma apaixonada por tecnologia.</p>
 <p align="left">🎓 Sou formada em Ciências da Computação.</p>
 <p align="left">🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-<p align="left">🌱 Atualmente estou estudando em um bootcamp > GENERATION Java Jr FullStack</p>
+<p align="left">🌱 Atualmente estou estudando em um bootcamp > GENERATION Java FullStack Jr</p>
 
 ----
 </p>
